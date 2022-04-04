@@ -1,6 +1,6 @@
 # cara_ou_coroa
 
-A new Flutter project.
+Projeto feito no curso de Flutter de Jamilton Damasceno
 
 ## Getting Started
 
